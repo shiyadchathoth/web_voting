@@ -2,7 +2,7 @@
     let selectedCandidate = '';
     let voteSubmitted = false;
 
-    const candidates = ['shiyad', 'Bob', 'Charlie'];
+    const candidates = ['shiyad', 'shiyas', 'Charlie'];
 
     function submitVote() {
         voteSubmitted = true;
